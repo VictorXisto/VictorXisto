@@ -7,7 +7,7 @@ I'm an ABAP SAP developer, i like myself adventure with Pyhton and love apps mob
 - 🌱 I’m currently learning JavaScript and Flutter
 - 👯 I’m looking to collaborate on open source Flutter project 
 - 💬 Ask me about ABAP e Python
-🇧🇷 Born in Porto Alegre, Brazil <br>
+🇧🇷 Born in São Paulo, Brazil
 
 ### Find me elsewhere 🌎
 
