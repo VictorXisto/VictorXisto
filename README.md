@@ -20,5 +20,10 @@ I'm an ABAP SAP developer, i like myself adventure with Pyhton and love apps mob
 
 <!--END_SECTION:activity-->
 
+
+### 📊 Most used languages ​​in GitHub:
+![Saori's github top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorXisto&layout=compact&theme=dracula)
+
+
 ### Visitors Count
 <img align="left" src = "https://profile-counter.glitch.me/VictorXisto/count.svg" alt ="Loading">
